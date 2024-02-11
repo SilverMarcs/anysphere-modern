@@ -10,6 +10,7 @@
 This theme is a reinterpretation of the default cursor editor theme, Anysphere, with modern design elements.
 
 
+
 ## Overview
 
 The Anysphere Modern theme brings a fresh look to Visual Studio Code interface, providing users with a familiar yet updated experience. With sleek visuals and intuitive controls, this theme enhances productivity and aesthetics.
