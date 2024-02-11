@@ -4,10 +4,11 @@
 <div align="center">
 
 # Anysphere Modern 😎
-
+![image](https://github.com/GustavoPrietoP/anysphere-modern/assets/70907734/ff844ec0-1f6f-42ef-928b-72bc4a0a55a4)
 </div>
 
 This theme is a reinterpretation of the default cursor editor theme, Anysphere, with modern design elements.
+
 
 
 ## Overview
