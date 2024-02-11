@@ -7,12 +7,12 @@
 
 </div>
 
-This theme is a reinterpretation of the default cursor editor theme, blending nostalgia with modern design elements.
+This theme is a reinterpretation of the default cursor editor theme, Anysphere, with modern design elements.
 
 
 ## Overview
 
-The Modern Cursor Editor Theme brings a fresh look to the classic cursor editor interface, providing users with a familiar yet updated experience. With sleek visuals and intuitive controls, this theme enhances productivity and aesthetics.
+The Anysphere Modern theme brings a fresh look to Visual Studio Code interface, providing users with a familiar yet updated experience. With sleek visuals and intuitive controls, this theme enhances productivity and aesthetics.
 
 ## Key Features
 
@@ -21,18 +21,18 @@ The Modern Cursor Editor Theme brings a fresh look to the classic cursor editor 
 
 ## Installation
 
-To use the Modern Cursor Editor Theme:
+To use Anysphere Modern:
 
 1. Download the theme from the marketplace.
 2. File > Preferences > Theme > Color Theme
 
 ## Feedback
 
-We welcome your feedback on the Modern Cursor Editor Theme. If you have any suggestions or encounter any issues, please don't hesitate to reach out to us. Your input helps us improve the theme for all users.
+We welcome your feedback on Anysphere Modern. If you have any suggestions or encounter any issues, please don't hesitate to reach out to us. Your input helps us improve the theme for all users.
 
 ## Credits
 
-The Modern Cursor Editor Theme was created by Gustavo Prieto de Paula and inspired by the original version made by z4yross. ❤️
+Anysphere Modern was created by Gustavo Prieto de Paula and inspired by the original version made by z4yross. ❤️
 
 ## License
 
