@@ -7,8 +7,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/GustavoPrietoP/anysphere-modern"
-  
   },
+  "homepage": "https://github.com/GustavoPrietoP/anysphere-modern/blob/master/README.md",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -30,5 +30,8 @@
         "path": "./themes/Anysphere Modern-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
