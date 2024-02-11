@@ -1,0 +1,30 @@
+{
+  "name": "anysphere-modern",
+  "displayName": "Anyshphere Modern",
+  "publisher": "GustavoPrietodePaula",
+  "description": "Modern version of the cursor editor \"Anysphere Dark\"",
+  
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "anysphere",
+    "anysphere modern",
+    "theme",
+    "dark theme",
+    "cursor"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anysphere Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Anysphere Modern-color-theme.json"
+      }
+    ]
+  }
+}
