@@ -1,14 +1,14 @@
 {
-  "name": "anysphere-modern",
-  "displayName": "Anyshphere Modern",
-  "publisher": "GustavoPrietodePaula",
-  "description": "Modern version of the cursor editor \"Anysphere Dark\"",
+  "name": "custom-syntax-colors",
+  "displayName": "Custom Syntax Colors",
+  "publisher": "SilverMarcs",
+  "description": "Custom Syntax Colors preserving VSCode Dark Modern Theme",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GustavoPrietoP/anysphere-modern"
+    "url": "https://github.com/SilverMarcs/Custom Syntax Colors"
   },
-  "homepage": "https://github.com/GustavoPrietoP/anysphere-modern/blob/master/README.md",
+  "homepage": "https://github.com/GustavoPrietoP/custom-syntax-colors/blob/master/README.md",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -16,7 +16,7 @@
     "Themes"
   ],
   "keywords": [
-    "anysphere",
+    "custom syntax",
     "anysphere modern",
     "theme",
     "dark theme",
@@ -25,10 +25,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Anysphere Modern",
+        "label": "TextMate Syntax",
         "uiTheme": "vs-dark",
-        "path": "./themes/Anysphere Modern-color-theme.json"
-      }
+        "path": "./themes/TextMate.json"
+      },
+      {
+				"label": "Xcode Syntax",
+				"uiTheme": "vs-dark",
+				"path": "./themes/XCode.json"
+			}
     ]
   },
   "dependencies": {

@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "anysphere-modern" extension will be documented in this file.
+All notable changes to the "Custom Syntax" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
