@@ -17,22 +17,26 @@
   ],
   "keywords": [
     "custom syntax",
-    "anysphere modern",
     "theme",
     "dark theme",
-    "cursor"
+    "XCode"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "TextMate Syntax",
+        "label": "TextMate Syntax / VSDark+ Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/TextMate.json"
       },
       {
-				"label": "Xcode Syntax",
+				"label": "XCode Syntax / VSDark+ Modern",
 				"uiTheme": "vs-dark",
 				"path": "./themes/XCode.json"
+			},
+      {
+				"label": "TextMate Syntax / VSDark+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark+Textmate.json"
 			}
     ]
   },
